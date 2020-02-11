@@ -1,0 +1,12 @@
+[14-Sep-2019 17:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/moveyow2/public_html/booking/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/moveyow2/public_html/booking/config/database.php on line 16
+[14-Sep-2019 17:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/moveyow2/public_html/booking/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/moveyow2/public_html/booking/config/database.php on line 16
+[14-Sep-2019 17:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/moveyow2/public_html/booking/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/moveyow2/public_html/booking/config/database.php on line 16
